@@ -5,3 +5,4 @@ This is a repo for the french MOOC "[Initiation à la programmation (en Java), �
 ## Projects list
 
 * Devinette de champignons (3 questions max to find the correct answer, decision tree)
+* Location de vélos (multiple solutions : array and conditionals)
